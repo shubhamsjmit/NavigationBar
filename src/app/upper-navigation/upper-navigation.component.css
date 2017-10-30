@@ -1,0 +1,12 @@
+.upperNav{
+  font-size: 16px;
+  float: right;
+  position: relative;
+}
+.upperNav:hover {
+  text-decoration: solid;
+  text-decoration: underline;
+}
+i {
+  margin-left: 8px;
+}
